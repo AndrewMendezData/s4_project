@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 
-vehicles = pd.read_csv('/vehicles_us.csv')
+vehicles = pd.read_csv('vehicles_us.csv')
 
 
 # Histogram Comparing Prices Between Car Models
