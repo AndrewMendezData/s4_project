@@ -52,9 +52,9 @@ st.write(fig1)
 
 
 
-# Scatterplot: Relationship between Price & Model Year
+# Scatterplot: Relationship between Price & Odometer Reading
 
-st.header('Price & Model Year Relationship')
+st.header('Price & Odometer Reading Relationship')
 
 fig2 = px.scatter(
     vehicles, 
